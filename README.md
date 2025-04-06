@@ -65,7 +65,7 @@
 
 |Resources|Progress|
 |---|---|
-|[Harvard: CS50's Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python)|⬜10%|
+|[Harvard: CS50's Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python)|⬜40%|
 
 ### Maths
 
@@ -80,7 +80,8 @@
 |Resources|Progress|
 |---|---|
 |[freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)|⬜40%|
-|[Harvard: CS50's Web Programming with Python and Javascript](https://pll.harvard.edu/course/cs50s-web-programming-python-and-javascript)|⬜|
+|[freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)|⬜|
+|[freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)|⬜|
 
 ### Data Science
 
@@ -88,14 +89,10 @@
 |---|---|
 |[Book: Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)|⬜20%|
 
-### Machine Learning
+### Artiicial Intelligence
 
 |Resources|Progress|
 |---|---|
 |[Book: Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|⬜|
-
-### Deep Learning
-
-|Resources|Progress|
-|---|---|
+|[Harvard: CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)|⬜|
 |[Book: Deep Learning for Coders with fastai and Pytorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)|⬜|
