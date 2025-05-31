@@ -1,10 +1,10 @@
 # learning
 
-**Updated**: Once a month | **Current** **Focus**: Web Development
+**Updated**: Once a month | **Current** **Focus**: Data Science
 
 ## Career skills
 
-> Skills in different fields of Computer Science that I have developed during my double degree
+Skills in different fields of Computer Science that I have developed during my double degree
 
 [Page of my degree](https://www.uc3m.es/doble-grado/informatica-ade#programa)
 
@@ -32,9 +32,9 @@
 
 |Third year|Progress|
 |---|---|
-|Software Development|⬜|
-|Files and Databases|⬜|
-|Artificial Inteligence|⬜|
+|Software Development|✅|
+|Files and Databases|✅|
+|Artificial Inteligence|✅|
 
 |Fourth year|Progress|
 |---|---|
@@ -59,13 +59,7 @@
 
 ## Core skills
 
-> Generic skills that are transferrable to any sort of software work I do
-
-### Python Programming
-
-|Resources|Progress|
-|---|---|
-|[Harvard: CS50's Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python)|⬜40%|
+Generic skills that are transferrable to any sort of software work I do
 
 ### Maths
 
@@ -75,24 +69,39 @@
 
 ## Specialization
 
+Specific areas of Programming
+
 ### Web Development
 
 |Resources|Progress|
 |---|---|
-|[freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)|⬜40%|
+|[freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)|⬜60%|
 |[freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)|⬜|
 |[freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)|⬜|
+
+### Relational Databases
+
+|Resources|Progress|
+|---|---|
+|[DataCamp: Introduction to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)|✅|
+|[DataCamp: Intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql)|✅|
 
 ### Data Science
 
 |Resources|Progress|
 |---|---|
+|[DataCamp: Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)|✅|
+|[DataCamp: Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python)|✅|
 |[Book: Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)|⬜20%|
 
-### Artiicial Intelligence
+### Machine Learning
 
 |Resources|Progress|
 |---|---|
 |[Book: Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|⬜|
-|[Harvard: CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python)|⬜|
+
+### Deep Learning
+
+|Resources|Progress|
+|---|---|
 |[Book: Deep Learning for Coders with fastai and Pytorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)|⬜|
