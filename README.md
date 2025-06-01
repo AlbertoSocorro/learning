@@ -57,21 +57,7 @@ Skills in different fields of Computer Science that I have developed during my d
 |Distributed Systems|⬜|
 |Interactive and Ubiquitous Systems|⬜|
 
-## Core skills
-
-Generic skills that are transferrable to any sort of software work I do
-
-### Maths
-
-|Resources|Progress|
-|---|---|
-|[Book: Mathematics for Machine Learning](https://mml-book.github.io/)|⬜10%|
-
-## Specialization
-
-Specific areas of Programming
-
-### Web Development
+## Web Development
 
 |Resources|Progress|
 |---|---|
@@ -79,29 +65,25 @@ Specific areas of Programming
 |[freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)|⬜|
 |[freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)|⬜|
 
-### Relational Databases
+## Relational Databases
 
 |Resources|Progress|
 |---|---|
 |[DataCamp: Introduction to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)|✅|
 |[DataCamp: Intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql)|✅|
+|[DataCamp: Joinin Data in SQL](https://app.datacamp.com/learn/courses/joining-data-in-sql)|⬜|
 
-### Data Science
+## Data Science
 
 |Resources|Progress|
 |---|---|
 |[DataCamp: Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)|✅|
 |[DataCamp: Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python)|✅|
-|[Book: Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041122/)|⬜20%|
+|[DataCamp: Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)|⬜|
 
-### Machine Learning
-
-|Resources|Progress|
-|---|---|
-|[Book: Hands on Machine Learning with Scikit-Learn, Keras and Tensorflow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)|⬜|
-
-### Deep Learning
+## Containerization
 
 |Resources|Progress|
 |---|---|
-|[Book: Deep Learning for Coders with fastai and Pytorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/)|⬜|
+|[DataCamp: Containerization and Virtualization Concepts](https://app.datacamp.com/learn/courses/containerization-and-virtualization-concepts)|✅|
+|[DataCamp: Introduction to Docker](https://app.datacamp.com/learn/courses/introduction-to-docker)|⬜|
