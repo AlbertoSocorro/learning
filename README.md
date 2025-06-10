@@ -8,7 +8,7 @@ Skills in different fields of Computer Science that I have developed during my d
 
 [Page of my degree](https://www.uc3m.es/doble-grado/informatica-ade#programa)
 
-|First year|Progress|
+|First year|Finished?|
 |---|---|
 |Lineal Algebra|✅|
 |Calculus|✅|
@@ -21,7 +21,7 @@ Skills in different fields of Computer Science that I have developed during my d
 |Physical Principles of Computer Engineering|✅|
 |Computer Technology|✅|
 
-|Second year|Progress|
+|Second year|Finished?|
 |---|---|
 |Statistics II|✅|
 |Computer Structure|✅|
@@ -30,13 +30,13 @@ Skills in different fields of Computer Science that I have developed during my d
 |Diferential Calculus|✅|
 |Operating Systems|✅|
 
-|Third year|Progress|
+|Third year|Finished?|
 |---|---|
 |Software Development|✅|
 |Files and Databases|✅|
 |Artificial Inteligence|✅|
 
-|Fourth year|Progress|
+|Fourth year|Finished?|
 |---|---|
 |Computer Architecture|⬜|
 |Cryptography and Computer Security|⬜|
@@ -47,7 +47,7 @@ Skills in different fields of Computer Science that I have developed during my d
 |Machine Learning|⬜|
 |Language Processors|⬜|
 
-|Fifth year|Progress|
+|Fifth year|Finished?|
 |---|---|
 |Data Architecture|⬜|
 |Software Development Project Management|⬜|
@@ -59,31 +59,39 @@ Skills in different fields of Computer Science that I have developed during my d
 
 ## Web Development
 
-|Resources|Progress|
+|Resources|Finished?|
 |---|---|
-|[freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)|⬜60%|
+|[freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)|⬜|
 |[freeCodeCamp: JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)|⬜|
 |[freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)|⬜|
 
-## Relational Databases
+## Data Engineering
 
-|Resources|Progress|
+|Resources|Finished?|
 |---|---|
+|[DataCamp: Understanding Data Engineering](https://app.datacamp.com/learn/courses/understanding-data-engineering)|✅|
 |[DataCamp: Introduction to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)|✅|
 |[DataCamp: Intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql)|✅|
-|[DataCamp: Joinin Data in SQL](https://app.datacamp.com/learn/courses/joining-data-in-sql)|⬜|
+|[DataCamp: Joining Data in SQL](https://app.datacamp.com/learn/courses/joining-data-in-sql)|✅|
+|[DataCamp: Introduction to Relational Databases in SQL](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql)|✅|
+|[DataCamp: Database Design](https://app.datacamp.com/learn/courses/database-design)|⬜|
 
 ## Data Science
 
-|Resources|Progress|
+|Resources|Finished?|
 |---|---|
 |[DataCamp: Introduction to Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science)|✅|
 |[DataCamp: Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python)|✅|
-|[DataCamp: Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)|⬜|
+|[DataCamp: Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)|✅|
+|[DataCamp: Joining Data with Pandas](https://app.datacamp.com/learn/courses/joining-data-with-pandas)|✅|
+|[DataCamp: Introduction to Statistics in Python](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python)|✅|
+|[DataCamp: Introduction to Data Visualization with Matplotlib](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib)|✅|
+|[DataCamp: Introduction to Data Visualization with Seaborn](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn)|⬜|
 
 ## Containerization
 
 |Resources|Progress|
 |---|---|
 |[DataCamp: Containerization and Virtualization Concepts](https://app.datacamp.com/learn/courses/containerization-and-virtualization-concepts)|✅|
-|[DataCamp: Introduction to Docker](https://app.datacamp.com/learn/courses/introduction-to-docker)|⬜|
+|[DataCamp: Introduction to Docker](https://app.datacamp.com/learn/courses/introduction-to-docker)|✅|
+|[DataCamp: Introduction to Kubernetes](https://app.datacamp.com/learn/courses/introduction-to-kubernetes)|✅|
